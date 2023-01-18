@@ -32,7 +32,7 @@ const shop = new Sprite({
 const player = new Fighter({
     position: {
         x: 0,
-        y:0
+        y: 0
     },
     velocity: {
         x: 0,
@@ -47,7 +47,7 @@ const player = new Fighter({
     scale: 2.5,
     offset: {
         x: 215,
-        y: 167
+        y: 155
     },
     sprites: {
         idle: {
